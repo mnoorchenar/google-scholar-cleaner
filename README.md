@@ -43,6 +43,6 @@ It was created to help users manage their own Google Scholar profiles more effic
 ---
 
 ## 📸 Screenshot
-![7D372AC7-4EDA-45F4-9742-53B6B3DD62F0](https://github.com/user-attachments/assets/053cfd1e-89ee-477a-948c-4607b9417846)
+![03CAB807-D704-404D-A1CD-E4B323B9CE56](https://github.com/user-attachments/assets/68496c5a-c305-446f-bc1d-7b936876d3c8)
 
 
